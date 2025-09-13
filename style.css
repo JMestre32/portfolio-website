@@ -404,6 +404,7 @@ article .icon{
 
 .contact-info-upper-container{
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
@@ -414,6 +415,7 @@ article .icon{
 }
 
 .contact-info-container{
+  flex: 1 1 200px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -434,3 +436,14 @@ article .icon{
 }
 
 /* FOOTER SECTION */
+
+
+footer{
+  height: 26vh;
+  margin: 0 1rem;
+}
+
+footer p{
+  
+  text-align: center;
+}
