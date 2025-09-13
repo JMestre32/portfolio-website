@@ -229,7 +229,6 @@ button, .btn{
   -webkit-appearance: none;
   appearance: none;
   text-decoration: none !important;
-  color: inherit !important;
 }
 
 .btn {
