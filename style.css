@@ -225,6 +225,10 @@ section {
   gap: 1rem;
 }
 
+button{
+  text-decoration: none;
+}
+
 .btn {
   font-weight: 600;
   transition: all 300ms ease;
