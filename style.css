@@ -225,7 +225,7 @@ section {
   gap: 1rem;
 }
 
-button, .btn{
+.btn-color-1{
   -webkit-appearance: none;
   appearance: none;
   text-decoration: none !important;
